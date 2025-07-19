@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\StudentManager project\obj\Debug\StudentManager project.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\StudentManager project\obj\Debug\StudentManager project.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\StudentManager project\bin\Debug\StudentManager project.exe
+C:\Users\Hp\source\repos\StudentManager project\bin\Debug\StudentManager project.pdb
+C:\Users\Hp\source\repos\StudentManager project\bin\Debug\Students_Buisness.dll
+C:\Users\Hp\source\repos\StudentManager project\bin\Debug\StudentData.dll
+C:\Users\Hp\source\repos\StudentManager project\bin\Debug\Students_Buisness.pdb
+C:\Users\Hp\source\repos\StudentManager project\bin\Debug\StudentData.pdb
+C:\Users\Hp\source\repos\StudentManager project\obj\Debug\StudentM.DD043DFF.Up2Date
+C:\Users\Hp\source\repos\StudentManager project\obj\Debug\StudentManager project.exe
+C:\Users\Hp\source\repos\StudentManager project\obj\Debug\StudentManager project.pdb
